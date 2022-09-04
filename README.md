@@ -30,3 +30,14 @@ In this section iam going to tell about 4 cities and their important locations t
 | WASHINGTON,DC  |The White House  |  3 HOURS|
 | Las Vegas     | Bellagio Fountain| 4 hours |
 |Chicago         | Navy Pier       |  6 hours|
+* * * *
+> Display content when you have the mouse for hover.
+
+<https://stackoverflow.com/questions/73602786/display-content-when-you-have-the-mouse-for-hover>
+  
+```
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+```
+<https://css-tricks.com/snippets/css/system-font-stack>
